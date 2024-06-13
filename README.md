@@ -4,7 +4,7 @@ Bem-vindo ao repositório de projetos de Data Science! Este repositório contém
 
 ## Estrutura do Repositório
 
-- **[Projeto 1: Análise Exploratória de Dados (EDA) com Pandas e Seaborn](./Projeto 1 - Banco Relaciona, Python e SQL para Análise de Dados)**
+- **[Projeto 1: Análise Exploratória de Dados (EDA) com Pandas e Seaborn](./Projeto_1_Banco_Relacional_Python_e_SQL_para_Analise_de_Dados)**
   - Descrição: Análise exploratória de um dataset de vendas, incluindo limpeza de dados, visualização e insights.
   - Ferramentas: Python, Pandas, Seaborn, Matplotlib.
 
